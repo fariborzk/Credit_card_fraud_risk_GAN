@@ -80,5 +80,6 @@ The training progression across 60 epochs displays ideal minimax equilibrium:
 ```bash
 pip install torch torchvision numpy pandas scikit-learn matplotlib seaborn kagglehub kaggle
 
+---
 
-**This README document was generated with the assistance of Artificial Intelligence.*
+#### This README document was generated with the assistance of Artificial Intelligence.*
