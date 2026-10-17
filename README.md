@@ -82,4 +82,5 @@ pip install torch torchvision numpy pandas scikit-learn matplotlib seaborn kaggl
 
 ---
 
-#### This README document was generated with the assistance of Artificial Intelligence.*
+
+This README document was generated with the assistance of AI.*
