@@ -73,13 +73,12 @@ The training progression across 60 epochs displays ideal minimax equilibrium:
   - False Negative: `28` | True Positive: `70`
 
 ---
----
-#attention
-**This README document was generated with the assistance of Artificial Intelligence.*
-
 
 ## 6. Setup & Execution
 
 ### Prerequisites
 ```bash
 pip install torch torchvision numpy pandas scikit-learn matplotlib seaborn kagglehub kaggle
+
+
+**This README document was generated with the assistance of Artificial Intelligence.*
