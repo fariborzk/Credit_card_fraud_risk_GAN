@@ -1,4 +1,4 @@
-# Credit_card_fraud_risk_GAN
+
 # Adversarial-Tabular-Oversampling-for-Fraud-Detection (ATOF-Detection)
 
 A deep learning and machine learning pipeline for detecting fraudulent transactions in highly skewed tabular financial data via custom Generative Adversarial Network (GAN) oversampling.
