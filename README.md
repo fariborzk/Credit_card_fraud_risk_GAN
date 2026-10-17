@@ -1,4 +1,3 @@
-
 # Adversarial-Tabular-Oversampling-for-Fraud-Detection (ATOF-Detection)
 
 A deep learning and machine learning pipeline for detecting fraudulent transactions in highly skewed tabular financial data via custom Generative Adversarial Network (GAN) oversampling.
@@ -79,9 +78,8 @@ The training progression across 60 epochs displays ideal minimax equilibrium:
 ### Prerequisites
 ```bash
 pip install torch torchvision numpy pandas scikit-learn matplotlib seaborn kagglehub kaggle
+```markdown
 ---
-
 
 > [!NOTE]
 > *This README document was generated with the assistance of Artificial Intelligence.*
-
